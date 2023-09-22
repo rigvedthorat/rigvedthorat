@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tomato Leaf Disease Detection Using Deep Neural Networks<br>Projects or Research based on Machine Learning or Deep Learning<br>Hybrid Neural Networks<br>Digital Image Processing<br>ML, DL, NLP
+🔭 I’m currently working on Tomato Leaf Disease Detection Using Deep Neural Networks<br>👯 I’m looking to collaborate on Projects or Research related to ML/ DL<br>🤝 I’m looking for help with Hybrid Neural Networks<br>🌱 I’m currently learning Image Processing using DL<br>💬 Ask me about ML, DL, NLP
 
 
 ## 🌐 Socials:
