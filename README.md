@@ -16,6 +16,7 @@ Professionally, I'm an **AI Product & Prototyping Intern** at **The Builder Mark
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%234479A5.svg?style=for-the-badge&logo=sql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-%23458594.svg?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![NLP](https://img.shields.io/badge/NLP-%235D5D81.svg?style=for-the-badge&logo=nlp&logoColor=white)
