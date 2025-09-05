@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 MS CS Student @CU Boulder<br>👯  AI Product & Prototyping Intern @The Builder Market<br>🤝 I’m looking for help with Hybrid Neural Networks<br>🌱 I’m currently learning Image Processing using DL<br>💬 Ask me about ML, DL, NLP
+### 💫 About Me
+
+I'm a graduate student at **CU Boulder** pursuing a Master of Science in Computer Science, with a focus on machine learning, deep learning, and natural language processing.
+
+Professionally, I'm an **AI Product & Prototyping Intern** at **The Builder Market**, where I contribute to the development of AI-driven solutions.
 
 
 ## 🌐 Socials:
