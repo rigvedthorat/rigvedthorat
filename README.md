@@ -19,6 +19,7 @@ Professionally, I'm an **AI Product & Prototyping Intern** at **The Builder Mark
 ![Neo4j](https://img.shields.io/badge/Neo4j-%23458594.svg?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23000000.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-%235D5D81.svg?style=for-the-badge&logo=nlp&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
