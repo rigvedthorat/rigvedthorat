@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Tomato Leaf Disease Detection Using Deep Neural Networks<br>👯 I’m looking to collaborate on Projects or Research related to ML/ DL<br>🤝 I’m looking for help with Hybrid Neural Networks<br>🌱 I’m currently learning Image Processing using DL<br>💬 Ask me about ML, DL, NLP
+🔭 MS CS Student @CU Boulder<br>👯  AI Product & Prototyping Intern @The Builder Market<br>🤝 I’m looking for help with Hybrid Neural Networks<br>🌱 I’m currently learning Image Processing using DL<br>💬 Ask me about ML, DL, NLP
 
 
 ## 🌐 Socials:
